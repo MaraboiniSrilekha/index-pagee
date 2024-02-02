@@ -1,0 +1,114 @@
+/* /* .nike{
+    background-color: aquamarine;
+}
+ */
+
+#nykaa{
+
+    float: left;
+    color: deeppink;
+font-size: 25px;
+}
+
+    
+    
+
+
+#login{
+    border: transparent wheat;
+    border-radius: 8%;
+    background-color: deeppink;
+    font-size: 100%;
+    color: aliceblue;
+
+}
+#signin{
+    border: transparent wheat;
+    border-radius: 8%;
+    background-color: deeppink;
+    font-size: 100%;
+    color: aliceblue;
+
+}
+#aabout{
+    border: transparent wheat;
+    border-radius: 8%;
+    background-color: deeppink;
+    font-size: 100%;
+    color: aliceblue;
+
+
+}
+#fashion{
+    border: transparent wheat;
+    border-radius: 8%;
+    background-color: deeppink;
+    font-size: 100%;
+    color: aliceblue;
+    
+    
+}
+#advice{
+    border: transparent wheat;
+    border-radius: 8%;
+    background-color: deeppink;
+    font-size: 100%;
+    color: aliceblue;
+     
+   
+}
+ 
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: pink;
+        
+      }
+      
+      li {
+        float: right;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      
+      .bg{
+        background: url(nykaaaa.jpg) ;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        height:700px;
+        width: 1450px;
+      
+      }
+      .shop{
+        color: deeppink;
+       margin-top: 100px;
+       margin-bottom: 100px;
+       margin-left: 600px;
+       margin-right: 100px;
+        background: url(shop.webp);
+        text-align: center;
+        height: 100px;
+        width: 200px;
+        border: solid deeppink;
+      }
+      button{
+        background-color: deeppink;
+        text-align: center;
+      }
+      h2{
+        color: deeppink; 
+      }
+      footer{
+        text-align: center;
+        background-color: pink;
+        size: 10px;
+      }
